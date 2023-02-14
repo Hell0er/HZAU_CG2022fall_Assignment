@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\杜鹏\Desktop\CG\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\misc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\FBO.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\Param.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\model.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\main.cpp(154,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\main.cpp(160,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\main.cpp(175,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\main.cpp(191,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\main.cpp(238,39): warning C4244: “=”: 从“GLint”转换到“GLfloat”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\main.cpp(548,14): warning C4244: “参数”: 从“GLfloat”转换到“GLint”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\main.cpp(635,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  misc.cpp
+C:\Users\杜鹏\Desktop\CG\misc.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\misc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  model.cpp
+C:\Users\杜鹏\Desktop\CG\model.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\model.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\misc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\杜鹏\Desktop\CG\model.cpp(115,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\杜鹏\Desktop\CG\model.cpp(123,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+MSVCRT.lib(initializers.obj) : warning LNK4098: 默认库“msvcrtd.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+msvcrtd.lib(init.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReport
+msvcrtd.lib(init.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+C:\Users\杜鹏\Desktop\CG\x64\Release\CG.exe : fatal error LNK1120: 2 个无法解析的外部命令
