@@ -10,4 +10,4 @@
 ![这是图片](https://github.com/Hell0er/HZAU_CG2022fall_Assignment/blob/master/photo/4.png?raw=true "p4")
 ![这是图片](https://github.com/Hell0er/HZAU_CG2022fall_Assignment/blob/master/photo/5.png?raw=true "p5")
 <br>
-小组成员：计科2003 赵彬波、杜鹏
+小组成员：赵彬波、杜鹏
