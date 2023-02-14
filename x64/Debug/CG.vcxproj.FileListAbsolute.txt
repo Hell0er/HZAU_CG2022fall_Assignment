@@ -1,5 +1,0 @@
-C:\Users\杜鹏\Desktop\CG\x64\Debug\CG.exe
-C:\Users\杜鹏\Desktop\CG\x64\Debug\CG.pdb
-C:\Users\杜鹏\Desktop\CG - 副本\x64\Debug\CG.exe
-C:\Users\杜鹏\Desktop\CG - 副本\x64\Debug\CG.pdb
-C:\Users\MI\Desktop\CG\x64\Debug\CG.exe
