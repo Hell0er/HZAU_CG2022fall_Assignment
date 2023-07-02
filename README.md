@@ -6,7 +6,7 @@
 **交互、3D模型、纹理贴图、几何变换、光照明、阴影**等<br>
 
 项目成果展示如下：<br>
-其中，第二章图片为Blender下的模型的样子，其余图片为在Visual Studio中运行的样子。<br>
+(其中，第二张图片为Blender下的模型的样子，其余图片为在Visual Studio中运行的样子。)<br>
 ![这是图片](https://github.com/Hell0er/HZAU_CG2022fall_Assignment/blob/master/photo/1.png?raw=true "p1")
 ![这是图片](https://github.com/Hell0er/HZAU_CG2022fall_Assignment/blob/master/photo/2.png?raw=true "p2")
 ![这是图片](https://github.com/Hell0er/HZAU_CG2022fall_Assignment/blob/master/photo/3.png?raw=true "p3")
